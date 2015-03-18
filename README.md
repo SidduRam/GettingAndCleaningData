@@ -7,3 +7,6 @@ This repository has the R source code file and outout (tidy) data for the course
 3. Uses descriptive activity names to name the activities in the data set
 4. Appropriately labels the data set with descriptive variable names
 5. Create a tidy dataset for the average of each variable for each activity and each subject
+
+##### Refer the codebook file in this Github repository for the detailed data processing and analysis. 
+
